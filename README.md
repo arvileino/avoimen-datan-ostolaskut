@@ -15,7 +15,7 @@ Avausohjeen päivitystyö on aloitettu kesällä 2020.
 | Espoo       |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | Helsinki    |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |
 | Hämeenlinna |      |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
-| Jyväskylä   |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |      |
+| Jyväskylä   |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | Kauniainen  |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | Kouvola     |      |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | Kuopio      |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
