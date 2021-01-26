@@ -21,9 +21,10 @@ Avausohjeen päivitystyö on aloitettu kesällä 2020.
 | [Kuopio](https://www.avoindata.fi/data/fi/dataset/kuopion-kaupungin-ostolaskuaineisto)      |      |      |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | [Lahti](https://www.lahti.fi/kaupunki-ja-paatoksenteko/strategia-ja-kehittaminen/avoin-data/)       |      |      |      |      |      |      |  x   |  x   |  x   |  x   |      |
 | [Lappeenranta](https://www.lappeenranta.fi/fi/Palvelut/Paatoksenteko-ja-talous/Kaupunkitutkimus/Avoin-data/Data-aineistot/Kaupungin-ostolaskut)|      |      |      |      |  x   |  x   |  x   |  x   |  x   |  x   |      |
-| [Lieto](https://data.lounaistieto.fi/data/fi/dataset?sort=title+asc&q=liedon+ostolaskut)       |      |      |      |      |      |  x   |  x   |  x   |  x   |  x   |      |
+| [Lieto](https://lieto.fi/avoindata)       |      |      |      |      |      |  x   |  x   |  x   |  x   |  x   |      |
 | [Pori](https://www.pori.fi/tyo-ja-yrittaminen/hankinnat/ostolaskut)        |      |      |      |      |      |      |      |  x   |  x   |  x   |  x  |
 | [Puumala](https://puumala.fi/puumalan-kunnan-ostolaskutiedot/)        |      |      |      |      |      |      |      |      |  x   |  x   |     |
+| [Riihimäki](https://www.riihimaki.fi/palvelut/konserni-ja-hallintopalvelut/talous-ja-hankinnat/?fbclid=IwAR0ev0gTTVSk2-qkgzfTjVtrndzlwxqNgqQxu1e6Bja_Mr4bSwMb7X2n0Ok)        |      |      |      |      |      |      |      |      |  x   |  x   |     |
 | [Sastamala](https://www.sastamala.fi/aloitussivu/index.tmpl?sivu_id=9734)        |      |      |      |      |      |  x   |  x   |  x   |  x   |  x   |     |
 | [Tampere](https://data.tampere.fi/data/fi/dataset/tampereen-kaupungin-ostot)     |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |  x   |      |
 | [Valkeakoski](https://www.avoindata.fi/data/fi/dataset?q=valkeakoski%20ostolaskut) |      |      |      |      |      |      |      |  x   |  x   |      |      |
